@@ -130,7 +130,7 @@ def basal_metabolic_rate(gender, weight, height, age):
     return bmr
 
 
-# Call the main function so that
+# Call `` the main function so that
 # this program will start executing.
 
 main()
